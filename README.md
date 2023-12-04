@@ -1,6 +1,6 @@
 ### Olá, seja bem vindo(a)!
 
-Meu nome é Marcos Vinicius, sou desenvolvedor frontend e estudadente de engenharia de software
+Meu nome é Marcos Vinicius, sou desenvolvedor web e estudadente de engenharia de software
 
 
 <div>
