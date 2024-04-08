@@ -11,10 +11,10 @@ Meu nome é Marcos Vinicius, sou desenvolvedor web e estudadente de engenharia d
 ✅Minha Stack
 <br>
   <ul>
-      <li>React</li>
       <li>HTML</li>
       <li>CSS</li>
       <li>JS</li>
+      <li>React</li>
       <li>Node</li>
   </ul>
 <br>
