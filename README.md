@@ -21,10 +21,3 @@ Desenvolvedor focado em construir aplicações escaláveis e performáticas. Atu
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) <br>
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) <br>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) <br>
-
----
-
-<div align="left">
-  <img height="160em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=vinirz&show_icons=true&theme=gotham&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff">
-  <img height="160em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=vinirz&layout=compact&theme=gotham&hide_border=true&bg_color=0d1117&title_color=58a6ff">
-</div>
