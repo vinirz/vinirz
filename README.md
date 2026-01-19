@@ -1,27 +1,29 @@
-### Olá, seja bem vindo(a)!
+# Vinicius Reis
+### Software Engineer | Full Stack & Architecture Enthusiast
 
-Meu nome é Marcos Vinicius, sou desenvolvedor web e estudadente de engenharia de software
+Desenvolvedor focado em construir aplicações escaláveis e performáticas. Atualmente, aprofundando estudos em arquitetura de software e desenvolvendo soluções reais.
 
+- 🚀 **Building & Shipping:** Focado no desenvolvimento de produtos end-to-end. Atualmente arquitetando soluções para os setores de Varejo (PDV) e EdTech.
+- 🎯 **Objetivo:** Entregar software de alto valor agregado com código limpo e testável.
+- 🌱 **Explorando:** Adoção de Go (Golang) para serviços de alta performance e novas abordagens em infraestrutura.
 
-<div>
-    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=vinirz&show_icons=true&theme=dracula&count_private=true">
-    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=vinirz&layout=compact&theme=dracula">
+---
+
+### 💻 Tech Stack
+
+**Core**
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+**Data & Infrastructure**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+<div align="left">
+  <img height="160em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=vinirz&show_icons=true&theme=gotham&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff">
+  <img height="160em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=vinirz&layout=compact&theme=gotham&hide_border=true&bg_color=0d1117&title_color=58a6ff">
 </div>
-<br>
-✅Minha Stack
-<br>
-  <ul>
-      <li>HTML</li>
-      <li>CSS</li>
-      <li>JS</li>
-      <li>React</li>
-      <li>Node</li>
-  </ul>
-<br>
-  <div>
-    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
-    <img height='50em' src='https://cdn.worldvectorlogo.com/logos/css-3.svg'>
-    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
-    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
-    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/nodejs-3.svg">
-  </div>
