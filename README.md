@@ -4,7 +4,7 @@
 
 Desenvolvedor focado em construir aplicações escaláveis e performáticas. Atualmente, aprofundando estudos em arquitetura de software e desenvolvendo soluções reais.
 
-- 🚀 **Building & Shipping:** Focado no desenvolvimento de produtos end-to-end. Atualmente arquitetando soluções para os setores de Varejo (PDV) e EdTech.
+- 🚀 **Building & Shipping:** Focado no desenvolvimento de produtos end-to-end. Atualmente arquitetando soluções para: Varejo e EdTech.
 - 🎯 **Objetivo:** Entregar software de alto valor agregado com código limpo e testável.
 - 🌱 **Explorando:** Adoção de Go (Golang) para serviços de alta performance e novas abordagens em infraestrutura.
 
