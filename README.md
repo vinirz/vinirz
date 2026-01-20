@@ -1,6 +1,6 @@
 
 # Vinicius Reis
-### Software Engineer | Full Stack & Architecture Enthusiast
+### Software Engineer | Architecture Enthusiast
 
 Desenvolvedor focado em construir aplicações escaláveis e performáticas. Atualmente, aprofundando estudos em arquitetura de software e desenvolvendo soluções reais.
 
