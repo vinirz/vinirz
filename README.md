@@ -21,3 +21,7 @@ Desenvolvedor focado em construir aplicações escaláveis e performáticas. Atu
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) <br>
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) <br>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) <br>
+
+---
+
+<img src="https://raw.githubusercontent.com/vinirz/vinirz/output/github-snake-dark.svg" alt="Snake animation" />
